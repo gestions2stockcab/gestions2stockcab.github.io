@@ -1,0 +1,10 @@
+MISE EN LIGNE (GitHub Pages)
+1. Créer un dépôt GitHub (ex. espace-dentaire-malakoff) et y déposer tout le contenu de ce dossier.
+2. Settings > Pages : source = branche main, dossier racine.
+3. Le fichier CNAME contient déjà le domaine espace-dentaire-malakoff.fr.
+4. Chez le registrar du domaine : enregistrement A vers 185.199.108.153, .109.153, .110.153, .111.153 (et CNAME www vers <compte>.github.io).
+5. Dans Settings > Pages : cocher « Enforce HTTPS ».
+6. Compléter l'hébergeur dans la page Mentions légales (« À COMPLÉTER »).
+7. Après mise en ligne : Google Search Console (envoyer sitemap.xml) et fiche Google Business.
+
+Les anciennes adresses (/c/les-caries, etc.) sont conservées à l'identique.
