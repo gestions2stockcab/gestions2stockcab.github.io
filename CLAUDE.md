@@ -22,7 +22,7 @@ Site statique (HTML/CSS/JS, sans framework) du centre de santé dentaire de Mala
 ## À faire
 1. Mettre en ligne (GitHub Pages ou Netlify, voir `site/LISEZMOI.txt`), puis faire pointer le domaine.
 2. Compléter l'hébergeur dans les mentions légales (« À COMPLÉTER ») et les faire relire.
-3. Harmoniser les horaires : le site dit 9h–19h, Doctolib affiche 9h–13h / 14h–19h30.
+3. Horaires : on garde ceux de l’ancien site (lundi au vendredi, 9h–19h). Doctolib affiche 9h–13h / 14h–19h30 : à mettre à jour côté Doctolib si besoin.
 4. Ajouter les formations des praticiens et leurs photos (à fournir par l'équipe), puis une page « Accès » (métro, bus, accessibilité).
 5. Remplacer le texte « Recept AI » par le vrai logo (fichier à fournir).
 6. Vérifier la page « Vidéos orthodontie » (légendes des vidéos, le lien « Disjoncteur » a été retiré car doublon sur l'ancien site).
